@@ -6,7 +6,7 @@ Prerequisites :
 
 1.Numpy 2.Pandas 3.csv 4. matplotlib
 
-## Dataset Details
+## Dataset Details ( startup - funding)
 
 This dataset has funding information of the Indian startups from January 2015 to August 2017.
 Feature Details :
